@@ -124,3 +124,4 @@ La commande **`clock set [hh:mm:ss] [Jour] [Mois en anglais] [Année]`** (Exempl
 **8. Pourquoi est-il important de connaître les modes d’exécution de Cisco IOS avant de configurer un équipement réseau ?**
 L'architecture de Cisco IOS est strictement hiérarchique. Chaque mode possède un jeu de commandes qui lui est propre. Connaître ces modes est indispensable pour savoir où l'on se situe, éviter les erreurs de saisie et savoir dans quel mode naviguer pour appliquer une configuration spécifique (par exemple, on ne peut modifier le nom de l'appareil que depuis le mode de configuration globale).
 Interesting piste
+interesting update
