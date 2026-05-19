@@ -1,0 +1,1 @@
+print("Bonjour", 42, 13.37)
